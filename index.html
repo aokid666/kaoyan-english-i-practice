@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f3ea">
+  <title>考研英语一 · 翻译与作文训练档案</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+  <header class="masthead">
+    <div class="topline"><span>ENGLISH I / PRACTICE ARCHIVE</span><span>翻译 · 小作文 · 大作文</span></div>
+    <div class="hero">
+      <div>
+        <p class="eyebrow">独立作答，逐题复盘</p>
+        <h1>考研英语一<br><em>训练档案</em></h1>
+        <p class="intro">按日期保存每组三题的原题与题图。这里展示题面，不提前提供译文、范文或审题提示。</p>
+      </div>
+      <div class="hero-count"><strong id="count">—</strong><span>已收录组题</span></div>
+    </div>
+  </header>
+  <main>
+    <section class="toolbar" aria-label="筛选训练">
+      <div class="toolbar-heading"><h2>题目目录</h2><p id="results"></p></div>
+      <div class="controls">
+        <label class="search"><span class="sr-only">搜索题目</span><input id="query" type="search" placeholder="搜索日期、主题或题型…" autocomplete="off"></label>
+        <select id="type" aria-label="筛选大作文题型">
+          <option value="">全部大作文题型</option><option value="图画">图画</option><option value="图表">图表</option><option value="图画＋图表">图画＋图表</option>
+        </select>
+      </div>
+    </section>
+    <div class="layout">
+      <nav id="list" class="entry-list" aria-label="训练组列表"></nav>
+      <article id="detail" class="detail" aria-live="polite"></article>
+    </div>
+  </main>
+  <footer><span>考研英语一 · 原创模拟训练</span><a href="./archive/出题记录.md">查看完整出题记录</a></footer>
+  <script src="./app.js" defer></script>
+</body>
+</html>
