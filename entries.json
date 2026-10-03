@@ -95,7 +95,8 @@
       "summary": "小作文：接受教授研讨准备求助。完整Directions待补。"
     },
     "partB": {
-      "summary": "大作文：校园维修坊与使用原因。原始题图待补。"
+      "summary": "大作文：校园维修坊与使用原因。仅恢复图画部分，原图表待补。",
+      "image": "./assets/2026-09-14-picture.png"
     }
   },
   {
@@ -113,7 +114,8 @@
       "summary": "小作文：口述史数字化助理申请。完整Directions待补。"
     },
     "partB": {
-      "summary": "大作文：画桥图纸与铺设木板。原始题图待补。"
+      "summary": "大作文：画桥图纸与铺设木板。原始题图已恢复。",
+      "image": "./assets/2026-09-13-picture.png"
     }
   },
   {
@@ -149,7 +151,8 @@
       "summary": "小作文：校园地点故事征稿启事。完整Directions待补。"
     },
     "partB": {
-      "summary": "大作文：拖地接水与处理漏水管道。原始题图待补。"
+      "summary": "大作文：拖地接水与处理漏水管道。原始题图已恢复。",
+      "image": "./assets/2026-09-11-pictures.png"
     }
   },
   {
@@ -185,7 +188,8 @@
       "summary": "小作文：通勤与学习时间调查助理招募。完整Directions待补。"
     },
     "partB": {
-      "summary": "大作文：争执与共同修理桥模型。原始题图待补。"
+      "summary": "大作文：争执与共同修理桥模型。原始题图已恢复。",
+      "image": "./assets/2026-09-09-pictures.png"
     }
   }
 ]
