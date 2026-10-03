@@ -13,7 +13,7 @@ function render(){
   if(!e){detailEl.innerHTML='<p class="empty">请选择一组题目。</p>';return}
   const full=e.translation?.text&&e.partA?.text&&e.partB?.directions;
   detailEl.innerHTML=`<div class="detail-head"><span class="overline">PRACTICE SET · ${esc(e.id)}</span><h2>${esc(e.date)}${e.number>1?' · 第'+e.number+'组':''}</h2><span class="pill">原创模拟</span><span class="pill">${esc(e.kind)}</span></div>
-    ${!full?'<p class="notice">这组较早的记录目前只有可核对的题面摘要；完整原题与配图有待补齐。</p>':''}
+    ${!full?'<p class="notice">这组较早的记录只有可核对的题面摘要；部分题图已恢复，仍缺少的原题或图片会明确标出。</p>':''}
     <section><h3>01 / 翻译</h3><p class="question">${paras(e.translation?.text||e.translation?.summary||'题面待补')}</p>${e.translation?.source?`<p class="source">来源：<a href="${esc(e.translation.url)}" target="_blank" rel="noopener noreferrer">${esc(e.translation.source)}</a></p>`:''}</section>
     <section><h3>02 / 小作文 · Part A</h3><p class="question">${paras(e.partA?.text||e.partA?.summary||'题面待补')}</p></section>
     <section><h3>03 / 大作文 · Part B</h3><p class="question">${paras(e.partB?.directions||e.partB?.summary||'题面待补')}</p>${e.partB?.image?`<figure class="figure"><img src="${esc(e.partB.image)}" alt="本组大作文题图" loading="lazy"><figcaption>大作文题面材料</figcaption></figure>`:''}${e.partB?.table?`<p class="question">${esc(e.partB.table)}</p>`:''}</section>`;
