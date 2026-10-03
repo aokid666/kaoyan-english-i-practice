@@ -63,96 +63,29 @@
     }
   },
   {
-    "id": "2026-09-15-01",
-    "date": "2026-09-15",
+    "id": "2026-09-09-01",
+    "date": "2026-09-09",
     "number": 1,
-    "title": "志愿者研究队列 · 校园设备借用 · 网络信息核实",
-    "kind": "静态图表",
-    "translation": {
-      "topic": "英国大型志愿者研究队列",
-      "summary": "翻译素材：英国大型志愿者研究队列。完整原题请参看出题记录；当前目录未恢复完整短文。"
-    },
-    "partA": {
-      "topic": "校园设备短期借用通知",
-      "summary": "小作文：校园设备短期借用通知。完整Directions待补。"
-    },
-    "partB": {
-      "summary": "大作文：核实网络信息的首选方式。原始题图待补。"
-    }
-  },
-  {
-    "id": "2026-09-14-01",
-    "date": "2026-09-14",
-    "number": 1,
-    "title": "非洲语言 · 研讨准备 · 校园维修坊",
-    "kind": "图画＋图表",
-    "translation": {
-      "topic": "非洲语言学习与代际交流",
-      "summary": "翻译素材：非洲语言学习与代际交流。完整原题请参看出题记录；当前目录未恢复完整短文。"
-    },
-    "partA": {
-      "topic": "接受教授研讨准备求助",
-      "summary": "小作文：接受教授研讨准备求助。完整Directions待补。"
-    },
-    "partB": {
-      "summary": "大作文：校园维修坊与使用原因。仅恢复图画部分，原图表待补。",
-      "image": "./assets/2026-09-14-picture.png"
-    }
-  },
-  {
-    "id": "2026-09-13-01",
-    "date": "2026-09-13",
-    "number": 1,
-    "title": "黏菌 · 数字化项目 · 桥梁场景",
-    "kind": "单幅图画",
-    "translation": {
-      "topic": "黏菌与智能概念",
-      "summary": "翻译素材：黏菌与智能概念。完整原题请参看出题记录；当前目录未恢复完整短文。"
-    },
-    "partA": {
-      "topic": "口述史数字化助理申请",
-      "summary": "小作文：口述史数字化助理申请。完整Directions待补。"
-    },
-    "partB": {
-      "summary": "大作文：画桥图纸与铺设木板。原始题图已恢复。",
-      "image": "./assets/2026-09-13-picture.png"
-    }
-  },
-  {
-    "id": "2026-09-12-01",
-    "date": "2026-09-12",
-    "number": 1,
-    "title": "历史教学 · 工作坊变更 · 物品维修",
-    "kind": "双图表",
-    "translation": {
-      "topic": "学校历史教学",
-      "summary": "翻译素材：学校历史教学。完整原题请参看出题记录；当前目录未恢复完整短文。"
-    },
-    "partA": {
-      "topic": "简历工作坊变更投诉回复",
-      "summary": "小作文：简历工作坊变更投诉回复。完整Directions待补。"
-    },
-    "partB": {
-      "summary": "大作文：物品损坏后的处理选择与顾虑。原始题图待补。"
-    }
-  },
-  {
-    "id": "2026-09-11-01",
-    "date": "2026-09-11",
-    "number": 1,
-    "title": "偏头痛研究 · 校园故事征稿 · 漏水管道",
+    "title": "微积分教学 · 调查助理 · 断桥模型",
     "kind": "双幅图画",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
     "translation": {
-      "topic": "偏头痛用药研究",
-      "summary": "翻译素材：偏头痛用药研究。完整原题请参看出题记录；当前目录未恢复完整短文。"
+      "topic": "大学微积分作业研究",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nIn a college calculus course, practice problems can be arranged in different ways. A conventional assignment may place similar questions together, allowing students to repeat the same procedure several times. Another arrangement mixes types of problems and returns to earlier topics after an interval. Students then need to recognize which method belongs to each question before they can begin calculating.\n\nA study of 585 students in two existing course sections examined how such assignments related to performance. The comparison concerned ordinary teaching rather than an experiment that randomly reassigned every student. 【待译部分】Because each question no longer announced the method needed to solve it, students had to decide which approach applied, a judgment that closely resembles the demands of an exam.【待译部分结束】\n\nThe reported results suggest that mixing problems may be particularly useful for students whose earlier performance was weaker. Yet differences between existing classes should be interpreted with care: a comparison of two sections cannot by itself show that every student in every course would improve in the same way. The educational question is how to help learners choose a method when a problem does not announce its own category.\n\n要求：仅翻译标出的部分。",
+      "source": "npj Science of Learning · 2026-08-28 · Mixing problems increases performance of all students but especially of low-achieving ones in college calculus",
+      "url": "https://www.nature.com/articles/s41539-026-00450-6",
+      "provenance": "背景段落复原；待译句原文"
     },
     "partA": {
-      "topic": "校园地点故事征稿启事",
-      "summary": "小作文：校园地点故事征稿启事。完整Directions待补。"
+      "topic": "通勤与学习时间调查助理招募",
+      "text": "Directions:\n\nSuppose you are the Student Research Center. Your center is recruiting student assistants for a campus survey on commuting and study time. From September 22 to October 3, assistants will distribute and collect anonymous questionnaires on two afternoons and organize the answers in a spreadsheet. Applicants should be careful, reliable and familiar with basic spreadsheet functions. Ask interested students to send an application of about 80 words to researchcenter@univ.edu by September 16.\n\nWrite a notice to introduce the work, state the requirements and explain how to apply. Write about 100 words on the ANSWER SHEET. Sign the notice “Student Research Center”. (10 points)",
+      "provenance": "根据原题事实复原"
     },
     "partB": {
-      "summary": "大作文：拖地接水与处理漏水管道。原始题图已恢复。",
-      "image": "./assets/2026-09-11-pictures.png"
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the two pictures below. In your essay, you should:\n1. describe the pictures briefly,\n2. interpret their meaning, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-09-kaoyan-english-part-b-cartoon.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "争执与共同修理断裂桥模型"
     }
   },
   {
@@ -161,35 +94,154 @@
     "number": 1,
     "title": "北极生态 · 线上迎新 · 校园出行",
     "kind": "动态图表",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
     "translation": {
       "topic": "北极生态系统适应",
-      "summary": "翻译素材：北极生态系统适应。完整原题请参看出题记录；当前目录未恢复完整短文。"
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nOn Alaska's North Slope, researchers are asking how an Arctic ecosystem responds to a warming climate. Their work follows several connected forms of life, including birds, willow shrubs, fish, aquatic insects and beetles. A change that appears beneficial to one species may alter food, shelter or competition for another. Studying only one organism could therefore miss part of the pattern.\n\n【待译部分】By tracing not only how each species responds to rising temperatures but also how one response changes the pressures faced by another, the project treats adaptation as a relationship rather than a solitary achievement.【待译部分结束】\n\nThe project takes place in an environment where changes can unfold at different speeds. Plants may grow under new temperature conditions while the insects and birds associated with them respond in other ways. The researchers can observe links and develop explanations, but the direction of future change remains uncertain. Their question is broader than whether one species can survive: it concerns how the relationships within an ecosystem may shift as warming continues.\n\n要求：仅翻译标出的部分。",
+      "source": "The Guardian · 2026-09-09 · Can an entire Arctic ecosystem evolve to adapt to the climate crisis?",
+      "url": "https://www.theguardian.com/environment/2026/sep/09/arctic-ecosystem-evolve-adapt-climate-crisis-aoe",
+      "provenance": "背景段落复原；待译句原文"
     },
     "partA": {
-      "topic": "线上迎新工作与实验课冲突",
-      "summary": "小作文：线上迎新工作与实验课冲突。完整Directions待补。"
+      "topic": "线上迎新主持冲突回复",
+      "text": "Directions:\n\nSuppose you are Li Ming. Elena, a student coordinator at a partner university, has sent you the following email. Write her a reply.\n\nDear Li Ming,\n\nSince you helped exchange students last term, could you lead the final 30 minutes of the online orientation for next month's students? The event is scheduled for September 18, from 2:00 to 3:00 p.m. Please collect students' questions in advance and confirm by Friday.\n\nBest,\nElena\n\nA required laboratory class has just been moved to the same time. Your teammate Zhang Wei has similar experience and is available to help. Explain the conflict and propose a practical arrangement.\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "provenance": "根据原题事实复原"
     },
     "partB": {
-      "summary": "大作文：校园出行方式变化。原始题图待补。"
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the chart below. In your essay, you should:\n1. describe the chart briefly,\n2. explain the situation reflected in it, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-10-kaoyan-english-part-b-chart.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "2022—2026年校园出行方式变化"
     }
   },
   {
-    "id": "2026-09-09-01",
-    "date": "2026-09-09",
+    "id": "2026-09-11-01",
+    "date": "2026-09-11",
     "number": 1,
-    "title": "微积分教学 · 调查助理 · 断桥模型",
+    "title": "偏头痛研究 · 校园故事征稿 · 漏水管道",
     "kind": "双幅图画",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
     "translation": {
-      "topic": "大学微积分作业研究",
-      "summary": "翻译素材：大学微积分作业研究。完整原题请参看出题记录；当前目录未恢复完整短文。"
+      "topic": "偏头痛用药研究",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nA report on a late-stage study described a possible treatment for menstrual migraine. In the study, participants were scheduled to take atogepant for seven days, beginning three days before the expected start of menstruation, across three cycles. The company reported that the treatment met the study's main goal when compared with a placebo.\n\n【待译部分】Although the reported difference was modest, it was measured against a placebo under controlled conditions, allowing researchers to separate the treatment’s effect from changes that might have occurred simply with time.【待译部分结束】\n\nA controlled comparison is valuable because symptoms can vary even when no active treatment is taken. Still, a reported result does not answer every practical question about who may benefit, how large the benefit is for an individual, or how the treatment should be evaluated in other settings. Further information about the study and subsequent assessment would be needed before drawing broad conclusions. The distinction between an observed difference and its wider meaning is important in reading any health report.\n\n要求：仅翻译标出的部分。",
+      "source": "Reuters · 2026-09-10 · AbbVie’s menstrual migraine treatment meets late-stage study goal",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/abbvies-migraine-treatment-meets-late-stage-study-goal-2026-09-10/",
+      "provenance": "背景段落复原；待译句原文"
     },
     "partA": {
-      "topic": "通勤与学习时间调查助理招募",
-      "summary": "小作文：通勤与学习时间调查助理招募。完整Directions待补。"
+      "topic": "校园地点主题英文故事征稿",
+      "text": "Directions:\n\nSuppose you are the Editorial Board of your university's English magazine. You are preparing a special issue entitled “A Place on Campus That Matters to Me”. Invite original English narratives of 400–600 words about a specific campus place and a personal experience there. Contributors should email a Word document to campusvoice@univ.edu by September 25. Selected pieces may be edited before publication.\n\nWrite a notice to introduce the call for submissions, explain the content requirements and tell students how to submit. Write about 100 words on the ANSWER SHEET. Sign the notice “Editorial Board”. (10 points)",
+      "provenance": "根据原题事实复原"
     },
     "partB": {
-      "summary": "大作文：争执与共同修理桥模型。原始题图已恢复。",
-      "image": "./assets/2026-09-09-pictures.png"
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the two pictures below. In your essay, you should:\n1. describe the pictures briefly,\n2. interpret their meaning, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-11-kaoyan-english-part-b-cartoon.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "拖地接水与处理漏水管道"
+    }
+  },
+  {
+    "id": "2026-09-12-01",
+    "date": "2026-09-12",
+    "number": 1,
+    "title": "历史教学 · 工作坊变更 · 物品维修",
+    "kind": "双图表",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
+    "translation": {
+      "topic": "学校历史教学",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nMore than two decades after the attacks of September 11, 2001, American schools still face the question of how to teach this history. Requirements differ among states, and students now entering classrooms have no direct memory of that day. Teachers may use personal accounts alongside documents about events and decisions that followed.\n\n【待译部分】Students who cannot remember the event for themselves depend on teachers to connect personal testimony with later policy debates, the significance of which may be lost when the attacks are treated as an isolated date.【待译部分结束】\n\nA lesson organized solely around a date can provide a point of reference, yet students also need to understand why the event continues to appear in public discussion. Testimony makes history more immediate, while policy debates place it in a wider context. Selecting materials for a classroom requires care, because no single account can represent every person's experience. The challenge is to connect personal stories and historical consequences without assuming that young learners already know either one.\n\n要求：仅翻译标出的部分。",
+      "source": "Associated Press · 2026-09-08 · How every US state approaches 9/11 history in schools",
+      "url": "https://apnews.com/article/920a5427c69b01c136468aab8649ee9f",
+      "provenance": "背景段落复原；待译句原文"
+    },
+    "partA": {
+      "topic": "简历工作坊变更投诉回复",
+      "text": "Directions:\n\nSuppose you are Li Ming, the coordinator of a résumé workshop held on September 10. You receive the following email from participant Daniel Moore. Write him a reply.\n\nDear Li Ming,\n\nI went to Room 204 as the automatic reminder instructed, but another participant later told me the workshop had moved to Room 318. By the time I arrived, the individual résumé feedback session had ended. Why was the change not communicated? Could you send me the materials and arrange another time to review my résumé?\n\nBest,\nDaniel Moore\n\nThe projector in Room 204 failed, so the workshop was moved; the automatic reminder was not updated. Explain what happened and respond to his requests. You may include relevant details.\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "provenance": "根据原题事实复原"
+    },
+    "partB": {
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the two charts below. In your essay, you should:\n1. describe the charts briefly,\n2. explain the situation reflected in them, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-12-kaoyan-english-part-b-dual-charts.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "物品损坏后的处理选择及未优先维修者的顾虑"
+    }
+  },
+  {
+    "id": "2026-09-13-01",
+    "date": "2026-09-13",
+    "number": 1,
+    "title": "黏菌 · 数字化项目 · 桥梁场景",
+    "kind": "单幅图画",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
+    "translation": {
+      "topic": "黏菌与智能概念",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nSlime moulds have attracted attention because their behaviour can appear surprisingly flexible. In experiments, they have moved through mazes in search of food and formed networks linking separate resources. Such observations invite comparisons with problem solving, even though these organisms have no nervous system.\n\nSome researchers argue that the behaviour challenges familiar definitions of intelligence. Others caution that a useful analogy can also obscure the biological process being studied. 【待译部分】Whether these responses amount to intelligence remains disputed, partly because the vocabulary created to describe animals with nervous systems may conceal, rather than clarify, what an organism without neurons is actually doing.【待译部分结束】\n\nThe disagreement is partly about evidence and partly about language. Describing a network as a decision may help people picture its result, but the word can imply mental processes that have not been established. Researchers must therefore ask what the experiments actually show and which terms explain those observations most accurately. Studying an organism on its own terms may reveal capabilities that familiar categories fail to capture.\n\n要求：仅翻译标出的部分。",
+      "source": "The Guardian · 2026-09-08 · “This is dangerous”: slime moulds and the bitter debate over the nature of intelligence",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence",
+      "provenance": "背景段落复原；待译句原文"
+    },
+    "partA": {
+      "topic": "口述史数字化项目助理申请",
+      "text": "Directions:\n\nSuppose you are Li Ming. Your university archives are recruiting two student assistants for a six-week oral-history digitization project from October 12 to November 20. The work takes about three hours a week and includes transcribing short interviews and checking names and dates against archival records. Applicants should be accurate and familiar with word-processing software.\n\nWrite an email to Ms Carter, the project coordinator, to apply for the position. Explain why you are suitable and when you are available. You may include relevant details.\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "provenance": "根据原题事实复原"
+    },
+    "partB": {
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the drawing below. In your essay, you should:\n1. describe the picture briefly,\n2. interpret its meaning, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-13-kaoyan-english-part-b-cartoon.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "桌前画桥图纸与沟边铺设木板"
+    }
+  },
+  {
+    "id": "2026-09-14-01",
+    "date": "2026-09-14",
+    "number": 1,
+    "title": "非洲语言 · 研讨准备 · 校园维修坊",
+    "kind": "图画＋图表",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
+    "translation": {
+      "topic": "非洲语言学习与代际交流",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nYoung people in different places are finding new ways to learn African languages spoken by their families. A Yoruba-language program in Nigeria and online lessons in Shona connected with Zimbabwe offer two examples of this interest. For people living abroad, learning a parent's language can change how they talk with older relatives.\n\n【待译部分】For learners raised far from their parents’ countries, mastering a heritage language can restore access to forms of family knowledge that translation conveys only imperfectly, while giving ordinary conversations with older relatives a depth they did not have before.【待译部分结束】\n\nA language can carry family stories, ordinary expressions and ways of describing daily life that may be difficult to transfer completely into another language. Digital lessons can make learning more accessible, although a screen alone cannot replace every conversation. Questions also remain about the place of these languages in education and online content. Their continued use depends on opportunities to speak, listen and share experiences across generations.\n\n要求：仅翻译标出的部分。",
+      "source": "Associated Press · 2026-09-06 · Africa’s mother tongues are finding new life as youth connect with roots and relatives",
+      "url": "https://apnews.com/article/african-languages-culture-revival-diaspora-online-business-9642df54fc4ad881418b8a4692f5cd3f",
+      "provenance": "背景段落复原；待译句原文"
+    },
+    "partA": {
+      "topic": "接受教授研讨准备求助",
+      "text": "Directions:\n\nSuppose you are Li Ming. Professor Williams has asked you to help two visiting students prepare for a seminar discussion on September 23. They need to know how the discussion works and to receive last week's reading guide. Write an email to accept the request, explain what help you can offer, suggest a time and place for a short preparation meeting, and ask the professor to confirm.\n\nWrite your answer in about 100 words on the ANSWER SHEET. Do not use your own name. Use “Li Ming” instead. Do not write the address. (10 points)",
+      "provenance": "根据原题事实复原"
+    },
+    "partB": {
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the picture and chart below. In your essay, you should:\n1. describe the picture and chart briefly,\n2. explain the situation reflected in them, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-14-kaoyan-english-part-b-picture-chart.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "校园维修坊图画与四项使用原因柱状图"
+    }
+  },
+  {
+    "id": "2026-09-15-01",
+    "date": "2026-09-15",
+    "number": 1,
+    "title": "志愿者研究队列 · 校园设备借用 · 网络信息核实",
+    "kind": "静态图表",
+    "provenance": "根据历史记录复原的可练习题面；非原发布逐字重印。大作文图片为当日原图，待译句为原句。",
+    "translation": {
+      "topic": "英国大型志愿者研究队列",
+      "text": "Directions: Read the following text carefully and translate the marked part into Chinese.\n\nA large study in the United Kingdom analyzed baseline information from more than 1.9 million adult volunteers in the Our Future Health research program. The scale makes it possible to examine patterns of health and disease across many participants. The information includes what volunteers reported about themselves and material drawn from hospital records.\n\nYet the number of participants is only one question to ask about a research cohort. People who choose to volunteer may differ from people who do not, and some groups may appear in different proportions from those in the wider population. 【待译部分】A sample may be large enough to include thousands of people from a minority group and still fail to represent that group proportionally, if those who volunteer differ systematically from those who do not.【待译部分结束】\n\nResearchers therefore need to consider both the size and the composition of the cohort when interpreting a result. A very large data set can reveal patterns while still leaving uncertainty about how those patterns apply to people who were less likely to join. Knowing the limits of a sample helps readers understand what its findings can and cannot establish.\n\n要求：仅翻译标出的部分。",
+      "source": "Nature Medicine · 2026-09-10 · Phenomic profiles and disease patterns of 1.9 million participants from Our Future Health",
+      "url": "https://www.nature.com/articles/s41591-026-04602-4",
+      "provenance": "背景段落复原；待译句原文"
+    },
+    "partA": {
+      "topic": "校园设备短期借用通知",
+      "text": "Directions:\n\nSuppose you are the Student Support Office. Beginning September 22, students may borrow tablets, power banks and digital voice recorders for up to three days. They should reserve an item through the Student Portal and collect it with a campus card from Room 105, Student Center, on weekdays between 9:00 a.m. and 5:00 p.m. Items should be returned to the same office within the borrowing period. Late borrowers will lose access to the service for two weeks.\n\nWrite a notice to introduce the service and explain how students can borrow and return equipment. Write about 100 words on the ANSWER SHEET. Sign the notice “Student Support Office”. (10 points)",
+      "provenance": "根据原题事实复原"
+    },
+    "partB": {
+      "directions": "Directions:\n\nWrite an essay of 160–200 words based on the chart below. In your essay, you should:\n1. describe the chart briefly,\n2. explain the situation reflected in it, and\n3. give your comments.\n\nWrite your answer on the ANSWER SHEET. (20 points)",
+      "image": "./assets/2026-09-15-kaoyan-english-part-b-static-chart.png",
+      "provenance": "原始题图；Directions 根据记录复原",
+      "subject": "核实网络信息时首选方式的静态条形图"
     }
   }
 ]
