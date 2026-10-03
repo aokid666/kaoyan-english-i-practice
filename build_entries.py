@@ -1,4 +1,4 @@
-"""Build the public, answer-free catalogue. Edit entries here after publishing a new set."""
+"""Build the public, answer-free catalogue from complete and reconstructed sets."""
 import json
 from pathlib import Path
 
@@ -134,20 +134,7 @@ Write your answer on the ANSWER SHEET. (20 points)""",
     },
 ]
 
-historic = [
-    ("2026-09-15", "志愿者研究队列 · 校园设备借用 · 网络信息核实", "静态图表", "英国大型志愿者研究队列", "校园设备短期借用通知", "核实网络信息的首选方式", None),
-    ("2026-09-14", "非洲语言 · 研讨准备 · 校园维修坊", "图画＋图表", "非洲语言学习与代际交流", "接受教授研讨准备求助", "校园维修坊与使用原因", "2026-09-14-picture.png"),
-    ("2026-09-13", "黏菌 · 数字化项目 · 桥梁场景", "单幅图画", "黏菌与智能概念", "口述史数字化助理申请", "画桥图纸与铺设木板", "2026-09-13-picture.png"),
-    ("2026-09-12", "历史教学 · 工作坊变更 · 物品维修", "双图表", "学校历史教学", "简历工作坊变更投诉回复", "物品损坏后的处理选择与顾虑", None),
-    ("2026-09-11", "偏头痛研究 · 校园故事征稿 · 漏水管道", "双幅图画", "偏头痛用药研究", "校园地点故事征稿启事", "拖地接水与处理漏水管道", "2026-09-11-pictures.png"),
-    ("2026-09-10", "北极生态 · 线上迎新 · 校园出行", "动态图表", "北极生态系统适应", "线上迎新工作与实验课冲突", "校园出行方式变化", None),
-    ("2026-09-09", "微积分教学 · 调查助理 · 断桥模型", "双幅图画", "大学微积分作业研究", "通勤与学习时间调查助理招募", "争执与共同修理桥模型", "2026-09-09-pictures.png"),
-]
-for date, title, kind, trans, letter, chart, image in historic:
-    entries.append({"id": date+"-01", "date": date, "number": 1, "title": title, "kind": kind,
-                    "translation": {"topic": trans, "summary": "翻译素材："+trans+"。完整原题请参看出题记录；当前目录未恢复完整短文。"},
-                    "partA": {"topic": letter, "summary": "小作文："+letter+"。完整Directions待补。"},
-                    "partB": {"summary": "大作文："+chart+("。仅恢复图画部分，原图表待补。" if date=="2026-09-14" else ("。原始题图已恢复。" if image else "。原始题图待补。")),
-                              **({"image":"./assets/"+image} if image else {})}})
+historic = json.loads((ROOT / "historic_reconstructions.json").read_text(encoding="utf-8"))
+entries.extend(historic)
 
 (ROOT / "entries.json").write_text(json.dumps(entries, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
