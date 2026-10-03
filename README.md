@@ -1,4 +1,4 @@
-# 考研英语一训练档案
+# 英语一训练档案
 
 静态网站，无需构建。将本目录文件置于 GitHub 仓库根目录，在仓库 Settings → Pages 中选择 **Deploy from a branch**、main 分支和根目录即可发布。站点使用相对路径，项目 Pages 地址也可正常打开。
 
